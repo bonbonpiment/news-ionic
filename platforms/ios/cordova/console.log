@@ -1,0 +1,9 @@
+2014-09-01 15:17:47.708 21212 News Feed[5308:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-01 15:17:47.728 21212 News Feed[5308:70b] Unlimited access to network resources
+2014-09-01 15:17:47.872 21212 News Feed[5308:70b] [CDVTimer][keyboard] 0.060022ms
+2014-09-01 15:17:47.873 21212 News Feed[5308:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-01 15:17:47.873 21212 News Feed[5308:70b] [CDVTimer][statusbar] 0.340998ms
+2014-09-01 15:17:47.873 21212 News Feed[5308:70b] [CDVTimer][TotalPluginStartup] 1.213968ms
+2014-09-01 15:17:48.012 21212 News Feed[5308:70b] Resetting plugins due to page load.
+2014-09-01 15:17:48.241 21212 News Feed[5308:70b] Finished load of: file:///Users/leo/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/68CAAAF0-8169-4858-86C2-7E12E21A0DCC/21212%20News%20Feed.app/www/index.html#/app/news
+2014-09-01 15:17:57.451 21212 News Feed[5308:70b] Doing login [object Object]
